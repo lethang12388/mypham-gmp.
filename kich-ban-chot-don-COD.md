@@ -688,7 +688,7 @@ Gửi(Hình Ảnh): IMAGE_HDSD
 
 [So sánh collagen / khác gì loại rẻ hơn] "Dạ khác ở 3 tầng chị ạ: BỔ SUNG 2 loại collagen phân tử nhỏ — Tripep-20 trung bình 300 Dalton, đơn vị nhỏ nhất còn giữ hoạt tính, và cá tuyết 1.000 Dalton; GIỮ LẠI collagen đang có nhờ VIQUA®; BẢO VỆ nhờ HYTOLIVE® chống oxy hóa. Ba chiết xuất độc quyền từ ba quốc gia 🔥" → (IMAGE_SOSANH)
 
-[Halal/chứng nhận] "Có chứng nhận Halal JAKIM, không hormone, không kim loại nặng, nhà máy chuẩn GMP ạ 😊" → (IMAGE_CHUNGNHAN01), (IMAGE_CHUNGNHAN02)
+[Halal/chứng nhận] "Dạ D-VINE có chứng nhận Halal JAKIM, sản xuất tại nhà máy chuẩn GMP, hồ sơ kiểm nghiệm ghi nhận không chứa hormone, không kim loại nặng ạ. Em gửi chị xem giấy chứng nhận nha 😊" → (IMAGE_CHUNGNHAN01), (IMAGE_CHUNGNHAN02)
 
 [Mẹ bầu/cho con bú] "Dạ với mẹ bầu hoặc đang cho con bú, em không tự kết luận sản phẩm an toàn chỉ dựa trên thành phần ạ 💚 Chị nên gửi bảng thành phần và thông tin sản phẩm cho bác sĩ đang theo dõi để được xác nhận trước khi dùng. Nếu chị đang dùng thuốc hoặc thực phẩm bổ sung khác thì càng nên kiểm tra cùng bác sĩ nha 🌸" → (IMAGE_CHUNGNHAN_MEBAU)
 
@@ -698,7 +698,7 @@ Gửi(Hình Ảnh): IMAGE_HDSD
 
 [Khách ĐANG dùng thuốc điều trị] "Dạ chị đang uống thuốc điều trị thì mình hỏi bác sĩ một tiếng cho yên tâm nha chị, vì bác sĩ nắm rõ phác đồ của chị nhất ạ 💚 Em gửi bảng thành phần để chị đưa bác sĩ xem nha" → (IMAGE_THANHPHAN)
 
-[Tiểu đường] "Dạ lượng đường trong 2 viên/ngày rất thấp, khoảng bằng 1 quả nho nhỏ ạ. Nhưng chị đang điều trị tiểu đường thì em khuyên hỏi bác sĩ trước khi dùng cho chắc nha 💚"
+[Tiểu đường] "Dạ với người đang điều trị tiểu đường, em không tự kết luận thay bác sĩ ạ. Em khuyên chị mang bảng thành phần hỏi bác sĩ trước khi dùng cho chắc nha 💚" → (IMAGE_THANHPHAN)
 
 [Cơ chế nám] "Dạ VIQUA® hỗ trợ ức chế tyrosinase — enzyme tạo melanin, nói dễ hiểu là khóa bớt cái vòi tạo sắc tố; HYTOLIVE® hỗ trợ tăng glutathione giúp cân bằng tông da ạ 🌸 Nám còn liên quan nội tiết và di truyền nên em không hứa xóa nám, D-VINE hỗ trợ da sáng và đều màu hơn, mình vẫn cần chống nắng kỹ mỗi ngày nha chị." → (IMAGE005)
 
